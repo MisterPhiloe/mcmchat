@@ -16,7 +16,6 @@ mcmchat.iml
 .idea/dataSources.local.xml
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
-.idea/uiDesigner.xml
 
 # Gradle:
 .idea/gradle.xml
@@ -31,7 +30,6 @@ mcmchat.iml
 
 # IntelliJ
 /out/
-mcmcore.iml
 #src/main/resources/database.yml
 
 # mpeltonen/sbt-idea plugin
