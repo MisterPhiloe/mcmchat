@@ -5,7 +5,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
+.idea/
+mcmchat.iml
 .idea/tasks.xml
 
 # Sensitive or high-churn files:
@@ -19,7 +20,6 @@
 
 # Gradle:
 .idea/gradle.xml
-.idea/libraries
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
@@ -53,8 +53,4 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml
 # *.ipr
-.gitignore
-.idea/
-mcmchat.iml
-pom.xml
-src/
+
