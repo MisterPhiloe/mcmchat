@@ -80,6 +80,13 @@
             <version>LATEST</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.morecommunityminecraft</groupId>
+            <artifactId>mcmsql</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/mcmsql.jar</systemPath>
+        </dependency>
     </dependencies>
 
 </project>
